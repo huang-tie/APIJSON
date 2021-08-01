@@ -495,6 +495,10 @@ https://github.com/hclown9804/APIJSONDemo_presto
 #### zhanghaoling 1.完善入门介绍视频
 APIJSON结合已有项目，简化开发流程
 https://github.com/haolingzhang1/APIJson--demo
+
+####  zhanghanyu **2.接入 presto/hive/clickhouse/db2 任意一个**
+APIJSON 接入 db2 使用demo <br />
+https://github.com/huang-tie/APIJSON_DB
   
 ### 持续更新
 
